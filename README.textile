@@ -1,0 +1,11 @@
+h1. MySQL Switch
+
+The perfect companion to MySQL Preference Pane. Switch MySQL on/off with a single click on your Mac OS X Dashboard.
+
+!http://github.com/canbuffi/mysql-switch-widget/raw/master/Icon.png!
+
+h2. Download
+
+You can download Version 1.00 of "MySQL Switch" right here:
+
+"*MySQL_Switch.zip*":http://cloud.github.com/downloads/canbuffi/mysql-switch-widget/MySQL_Switch.zip
